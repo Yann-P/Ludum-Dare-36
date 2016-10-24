@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objecttypes>
+ <objecttype name="spring" color="#55ffff"/>
+ <objecttype name="player" color="#a4009c"/>
+ <objecttype name="catapult" color="#ff0000"/>
+ <objecttype name="crop" color="#aaff00"/>
+ <objecttype name="positiontrigger" color="#ff0004"/>
+ <objecttype name="liftableplatform" color="#dcdc00"/>
+ <objecttype name="item" color="#17a423"/>
+ <objecttype name="itemtrigger" color="#0919a4"/>
+ <objecttype name="light" color="#ffff7f"/>
+ <objecttype name="sceneryitem" color="#c5a9c2"/>
+ <objecttype name="counterweight" color="#ff8d02"/>
+ <objecttype name="crack" color="#412f17"/>
+ <objecttype name="texttrigger" color="#ff75ed"/>
+ <objecttype name="exit" color="#ffffff"/>
+ <objecttype name="spike" color="#727345"/>
+ <objecttype name="zerog" color="#f9f9ff"/>
+</objecttypes>

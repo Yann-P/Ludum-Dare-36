@@ -1,0 +1,1 @@
+class gm.PositionTrigger extends gm.Trigger
