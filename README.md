@@ -2,6 +2,10 @@
 * Title: "Fix It"
 * Jam Entry
 
+### Licence
+[Creative Commons BY NC SA (attribution, no commercial use, share alike)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+
+
 ### Contributors
 * Code: Yann Pellegrini, Pierre Gabon
 * Art: Pierre Gabon
