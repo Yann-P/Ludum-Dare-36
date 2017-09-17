@@ -2,15 +2,15 @@
 * Title: "Fix It"
 * Jam Entry
 
-### Licence
+### Licence
 [Creative Commons BY NC SA (attribution, no commercial use, share alike)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 
-### Contributors
+### Contributors
 * Code: Yann Pellegrini, Pierre Gabon
 * Art: Pierre Gabon
 
-Warning: this is code written for a jam in 72h and it may hurt your eyes ;)
+**Warning: this is code written for a jam in 72h and it may hurt your eyes ;)**
 
 ## [Play](https://yann-p.fr/ld36) -  [Ludum Dare entry page](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=29641)
 
